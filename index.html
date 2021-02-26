@@ -6,15 +6,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="css/estilos.css">
     <title>Curso de Bootstrap</title>
 </head>
 
 <body>
-    <h1>Comenzando</h1>
+    <div class="container" id="contenedor">
+    <header class="row" id="cabecera">
+        <div class="col-md-3" id="logo"><!--<h1><img src="images/logo_ok.png" alt="logo de Rockin Music Bar" id="logo"></h1>
+        --></div>
+        <nav class="col-md-6 offset-3 " id="botonera"></nav>
+   
+    </header>
+    <section class="row justify-content-md-center" id="principal">
+        <div class="col-md-9 align-self-center" id="titulo_banner"></div>
+        <div class="col-md-10 align-self-center" id="carrousel"></div>
+    </section>
+    <section class="row" id="menu">
+        <div class="col-md-12 align-self-center" id="titulo_menu"></div>
+        <div class="col-md-3" id="men_1"></div>
+        <div class="col-md-3" id="men_2"></div>
+        <div class="col-md-3" id="men_3"></div>
+        <div class="col-md-3" id="men_4"></div>
+    </section>
+    <section class="row" id="contacto">
+        <div class="col" id="card_cont"></div>
 
+    </section>
+
+    <footer class="row" id="pie">
+        <div class="col" id="pie_1"></div>
+        <div class="col" id="pie_2"></div>
+    </footer>    
+</div>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
-
 </body>
 
 </html>

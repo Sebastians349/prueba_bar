@@ -1,0 +1,71 @@
+contenedor {
+  background-color: grey;
+}
+
+#cabecera {
+  background-color: #985f99;
+  height: 70px;
+}
+
+#logo {
+  background-color: #b88eb8;
+}
+
+#botonera {
+  background-color: #975e97;
+}
+
+#principal {
+  background-color: #9684a1;
+  height: 100vh;
+}
+
+#titulo_banner {
+  background-color: #bfedc1;
+  height: 100px;
+}
+
+#carrousel {
+  background-color: #b6c9bb;
+  height: 450px;
+}
+
+#menu {
+  background-color: lightgrey;
+  height: 100vh;
+}
+
+#titulo_menu {
+  background-color: #bfedc1;
+  height: 100px;
+}
+
+#men_1 {
+  background-color: #985f99;
+  height: 450px;
+}
+#men_2 {
+  background-color: #b88eb8;
+  height: 450px;
+}
+#men_3 {
+  background-color: #975e97;
+  height: 450px;
+}
+#men_4 {
+  background-color: #9684a1;
+  height: 450px;
+}
+
+#contacto {
+  background-color: grey;
+  height: 100vh;
+}
+
+#card_cont {
+}
+
+#pie {
+  background-color: #aaacb0;
+  height: 70px;
+}
