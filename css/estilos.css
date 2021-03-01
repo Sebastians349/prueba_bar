@@ -1,18 +1,18 @@
 contenedor {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 #cabecera {
   background-color: #985f99;
-  height: 70px;
+  height: 100px;
 }
 
 #logo {
-  background-color: #b88eb8;
+  background-color: #0008ff;
 }
 
 #botonera {
-  background-color: #975e97;
+  background-color: #000480;
 }
 
 #principal {
@@ -21,53 +21,54 @@ contenedor {
 }
 
 #titulo_banner {
-  background-color: #bfedc1;
-  height: 100px;
+  background-color: #000599;
 }
 
 #carrousel {
-  background-color: #b6c9bb;
-  height: 450px;
+  background-color: #0006b3;
 }
 
 #menu {
-  background-color: lightgrey;
+  background-color: mintcream;
   height: 100vh;
 }
 
 #titulo_menu {
-  background-color: #bfedc1;
-  height: 100px;
+  background-color: #0008ff;
 }
 
 #men_1 {
-  background-color: #985f99;
-  height: 450px;
+  background-color: #000480;
 }
 #men_2 {
-  background-color: #b88eb8;
-  height: 450px;
+  background-color: #000599;
 }
 #men_3 {
-  background-color: #975e97;
-  height: 450px;
+  background-color: #0006b3;
 }
 #men_4 {
-  background-color: #9684a1;
-  height: 450px;
+  background-color: #0006cc;
 }
 
 #contacto {
-  background-color: grey;
+  background-color: cyan;
   height: 100vh;
 }
 
 #card_cont {
-  background-color: #bfedc1;
-  height: 500px;
+  background-color: #0008ff;
+  height: 350px;
 }
 
 #pie {
-  background-color: #aaacb0;
-  height: 70px;
+  background-color: #985f99;
+  height: 100px;
+}
+
+#pie_1 {
+  background-color: #0008ff;
+}
+
+#pie_2 {
+  background-color: #000480;
 }
