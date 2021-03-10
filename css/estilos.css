@@ -1,18 +1,17 @@
-contenedor {
-  background-color: lightgrey;
+html {
+  scroll-behavior: smooth;
+}
+
+#contenedor {
 }
 
 #cabecera {
-  background-color: #985f99;
-  height: 100px;
 }
 
 #logo {
-  background-color: #0008ff;
 }
 
 #botonera {
-  background-color: #000480;
 }
 
 #principal {
@@ -47,7 +46,7 @@ contenedor {
   background-color: #0006b3;
 }
 #men_4 {
-  background-color: #0006cc;
+  background-color: skyblue;
 }
 
 #contacto {
@@ -57,16 +56,12 @@ contenedor {
 
 #card_cont {
   background-color: #0008ff;
-  height: 350px;
 }
 
 #pie {
-  background-color: #985f99;
-  height: 100px;
 }
 
 #pie_1 {
-  background-color: #0008ff;
 }
 
 #pie_2 {
