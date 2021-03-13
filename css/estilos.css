@@ -2,60 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-#contenedor {
-}
-
-#cabecera {
-}
-
-#logo {
-}
-
-#botonera {
-}
-
 #principal {
-  background-color: #9684a1;
-  height: 100vh;
-}
-
-#titulo_banner {
-  background-color: #000599;
-}
-
-#carrousel {
-  background-color: #0006b3;
-}
-
-#menu {
-  background-color: mintcream;
-  height: 100vh;
-}
-
-#titulo_menu {
-  background-color: skyblue;
-}
-
-#men_1 {
-  background-color: #0008ff;
-}
-#men_2 {
-  background-color: #000599;
-}
-#men_3 {
-  background-color: #0006b3;
-}
-#men_4 {
-  background-color: rgb(10, 10, 148);
-}
-
-#contacto {
-  background-color: cyan;
-  height: 100vh;
-}
-
-#card_cont {
-  background-color: #0008ff;
 }
 
 #pie {
@@ -65,5 +12,4 @@ html {
 }
 
 #pie_2 {
-  background-color: #000480;
 }
