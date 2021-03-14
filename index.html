@@ -13,13 +13,19 @@
 <body>
     <div class="container" id="contenedor">
         <header class="row" id="cabecera">
-                      
-            <nav class="col navbar navbar-light col align-self-center " id="botonera">
-                <a class="navbar-brand" href="index.html"> Rockin 
-                    <img src="images/logo_ok.png" width="70" height="70"
-                        class="d-inline-block align-center" alt="Logo Rockin Music Bar">Music Bar
-                    </a>
-                <ul class="nav nav-pills justify-content-end">
+            <nav class="navbar navbar-expand-md navbar-light w-100 nav-justified">
+                <h1>
+                  <a class="navbar-brand" href="index.html"> 
+                      <img src="images/logo_ok.png" width="150" height="150"
+                          class="d-inline-block align-center " alt="Logo Rockin Music Bar">
+                      </a>
+                </h1>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#botonera" aria-controls="botonera" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                  
+                <div class="collapse navbar-collapse" id="botonera">
+                  <ul class="nav nav-pills w-100 nav-justified">
                     <li class="nav-item">
                     <a class="nav-link active bg-danger" href="index.html">Inicio</a>
                     </li>
@@ -32,6 +38,8 @@
                     <li class="nav-item">
                     <a class="nav-link text-dark" href="#contacto">Contacto</a>
                     </li>
+                  </ul>
+                </div>
             </nav>
         </header>
         
@@ -65,7 +73,7 @@
         </section>
                          
         <section class="row" id="menu">
-             <div class="col-md-12 text-center h2 mt-2 mb-3" id="titulo_menu">Nuestras Opciones</div>           
+             <div class="col-md-12 text-center h2 mt-2 mb-3" id="titulo_menu">Nuestro Menú</div>           
                      
              <!--             inicio cards            -->
              
