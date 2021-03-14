@@ -2,14 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-#principal {
-}
-
-#pie {
-}
-
-#pie_1 {
-}
-
-#pie_2 {
+.rojo_liviano{
+  background-color: #e35d6a;
 }
