@@ -2,13 +2,13 @@ html {
   scroll-behavior: smooth;
 }
 
-.rojo_liviano{
-  background-color: #e35d6a;
-}
 
-a:hover {
-  background-color: #e35d6a;
-  opacity: 0.6;
-  transition: 0.5s;
-}
+  #botonera a:hover {
+    background-color: #4FD5D9;
+    filter: invert(1);  
+  }
 
+
+
+
+ 
