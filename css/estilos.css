@@ -9,8 +9,9 @@ html {
   }
 
   
-  .rojo_liviano {
-    background-color: #e04958;
-  }
-
   
+  
+  .proximas {
+    top: 0;
+    bottom: auto;
+}
