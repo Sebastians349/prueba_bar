@@ -5,13 +5,34 @@ html {
 
   #botonera a:hover {
     background-color: #4FD5D9;
-    filter: invert(1);  
+    filter: invert(1); 
+    transition: all .8s ease;
+ 
   }
 
+  /* ************* opcion blur y posicionar diferente la foto activa****
   
-  
-  
+  #foto{
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+  }
+    
   .proximas {
     top: 0;
     bottom: auto;
-}
+} */
+
+  /* *************** opcion gradient horrible *************** 
+  
+  #titulo_menu {
+    background: hsla(0, 0%, 100%, 1);
+
+    background: linear-gradient(180deg, hsla(0, 0%, 100%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    
+    background: -moz-linear-gradient(180deg, hsla(0, 0%, 100%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    
+    background: -webkit-linear-gradient(180deg, hsla(0, 0%, 100%, 1) 0%, hsla(34, 100%, 52%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#FF9408", GradientType=1 );
+
+} */
